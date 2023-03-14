@@ -2,12 +2,10 @@
 </script>
 
 <main>
-	<h1>Register</h1>
+	<h1>Crea tu Cuenta</h1>
 	<form action="" class="auth-form">
-		<label for=""> Email </label>
+		<label for=""> Teléfono </label>
 		<input type="text" name="email" />
-		<label for=""> Password </label>
-		<input type="password" name="password" />
-		<button class="btn btn-primary">Register</button>
+		<button class="btn btn-primary">Envíame un código SMS</button>
 	</form>
 </main>

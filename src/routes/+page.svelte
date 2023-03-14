@@ -1,8 +1,8 @@
 <main>
-	<h1>SvelteKit & Supabase Auth</h1>
-	<p>Let's learn how to register and login users!</p>
+	<h1>Sky</h1>
+	<p>Chat anónimo</p>
 	<div class="auth-buttons">
-		<a href="/login" class="btn btn-primary">Login</a>
-		<a href="/register" class="btn btn-secondary">Register</a>
+		<a href="/login" class="btn btn-primary">Entrar</a>
+		<a href="/register" class="btn btn-secondary">Crear Cuenta</a>
 	</div>
 </main>

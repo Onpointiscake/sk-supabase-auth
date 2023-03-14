@@ -2,12 +2,10 @@
 </script>
 
 <main>
-	<h1>Login</h1>
+	<h1>Acceder</h1>
 	<form action="" class="auth-form">
-		<label for=""> Email </label>
+		<label for=""> Teléfono </label>
 		<input type="text" name="email" />
-		<label for=""> Password </label>
-		<input type="password" name="password" />
-		<button class="btn btn-primary">Login</button>
+		<button class="btn btn-primary">Envia SMS</button>
 	</form>
 </main>
